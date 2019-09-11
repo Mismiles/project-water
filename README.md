@@ -56,10 +56,14 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Technologies Used
 
+- The technologies used include
+ 
+- [Html]
+
+- [CSS]
+
 -[Bootstrap] (https://getbootstrap.com/)
-    -This project uses **Bootstrap** to simplify styling
-    -CSS was also used to go beyond bootstrap's limits.
-    
+
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
@@ -75,10 +79,16 @@ The "contact us" page was made as a dummy and so no testing was required.
 
 Users tested the webpage and commented on grammar and formatting in order to enhance the user experience
 
+The website was tested on browsers including; chrome, internet explorer and firefox.
+
+The website was tested on different devices including; android phones (Huawei mate 20 pro and samsung galaxy s8) and the amazon kindle.
+
+Using the chrome browser, different screen sizes were tested. These included;
+
+
 ## Deployment
 
-The project was deployed to a Github repository; https://github.com/Mismiles/project-water 
-It is available for public use.
+The project was deployed to a Github repository, where it is available for public view: https://mismiles.github.io/project-water/
 
 
 ## Credits
@@ -87,41 +97,41 @@ It is available for public use.
 - The text for the World Facts section was taken from [iWaterPurification](https://iwaterpurification.com/water-facts/)
 
 - The text for the Chemical Properties section was taken and summarised from:
-(1) https://www.usgs.gov/special-topic/water-science-school/science/surface-tension-and-water?qt-science_center_objects=0#qt-science_center_objects)
-(2) https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_Chem1_(Lower)/07%3A_Solids_and_Liquids/7.03%3A_Hydrogen-Bonding_and_Water
-(3) https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/States_of_Matter/Properties_of_Liquids/Unusual_Properties_of_Water
-(4) https://courses.lumenlearning.com/introchem/chapter/the-structure-and-properties-of-water/
+-(1) https://www.usgs.gov/special-topic/water-science-school/science/surface-tension-and-water?qt-science_center_objects=0#qt-science_center_objects)
+-(2) https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_Chem1_(Lower)/07%3A_Solids_and_Liquids/7.03%3A_Hydrogen-Bonding_and_Water
+-(3) https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/States_of_Matter/Properties_of_Liquids/Unusual_Properties_of_Water
+-(4) https://courses.lumenlearning.com/introchem/chapter/the-structure-and-properties-of-water/
 
 - The text for the Challenges in the world today section was taken and summarised from
-(1) https://www.wateraid.org/facts-and-statistics
-(2) https://www.unwater.org/water-facts/
-(3) http://wsscc.org/
-(4) https://www.skyjuice.org.au/30-world-water-facts-know/
+-(1) https://www.wateraid.org/facts-and-statistics
+-(2) https://www.unwater.org/water-facts/
+-(3) http://wsscc.org/
+-(4) https://www.skyjuice.org.au/30-world-water-facts-know/
 
 
 - The text for the Solutions section was taken from:
-(1) [SusWASH] (https://washmatters.wateraid.org/suswash)
-(2) [UNWATER] (https://www.unwater.org/)
-(3) [Circle of Blue] (https://www.circleofblue.org/about/)
-(4) [The Water Project] (https://thewaterproject.org/about_us)
-(5) [The SeaBin Project] (https://seabinproject.com/about-us/our-purpose/)
+-(1) [SusWASH] (https://washmatters.wateraid.org/suswash)
+-(2) [UNWATER] (https://www.unwater.org/)
+-(3) [Circle of Blue] (https://www.circleofblue.org/about/)
+-(4) [The Water Project] (https://thewaterproject.org/about_us)
+-(5) [The SeaBin Project] (https://seabinproject.com/about-us/our-purpose/)
 
 ### Media
 The photos used in this site were obtained from various sources:
 
 - Photos for the image carousel were obtained from: 
-(1) https://andoverandvillages.co.uk/wp-content/uploads/2017/10/www.romseyandvillages.co_.uk_images_child-drink-water.jpg
-(2) http://www.metrokids.com/Blogs/June-2015/5-Tips-to-Keep-Kids-Safe-Around-Open-Water/kids_ocean_40713_med.jpg
-(3) https://www.pumps-africa.com/wp-content/uploads/2018/07/New-desalination-technology-to-turn-oceans-into-fresh-water.jpg
+-(1) https://andoverandvillages.co.uk/wp-content/uploads/2017/10/www.romseyandvillages.co_.uk_images_child-drink-water.jpg
+-(2) http://www.metrokids.com/Blogs/June-2015/5-Tips-to-Keep-Kids-Safe-Around-Open-Water/kids_ocean_40713_med.jpg
+-(3) https://www.pumps-africa.com/wp-content/uploads/2018/07/New-desalination-technology-to-turn-oceans-into-fresh-water.jpg
 
 - The image of the h20 molecule was obtained from: https://d2jmvrsizmvf4x.cloudfront.net/HY4dPvhTTWmK0LkADVO8_H2O_Lewis_Structure_PNG.png
 
 - The logos for the "solutions" section were obtained from: 
-(1) https://washmatters.wateraid.org/sites/g/files/jkxoof256/files/a-diagram-showing-the-ingredients-of-a-strong-wash-system.png
-(2) https://vfs.cloud9.us-east-1.amazonaws.com/vfs/32ef7c81817346129785c29c625e7740/preview/images/unwater.jpg
-(3) https://www.circleofblue.org/wp-content/uploads/2018/06/Circle-of-Blue-Water-Speaks-600x139.png
-(4) https://thewaterproject.org/images/twp-resp-logo.png
-(5) https://seabinproject.com/wp-content/themes/seabin/images/logo.png
+-(1) https://washmatters.wateraid.org/sites/g/files/jkxoof256/files/a-diagram-showing-the-ingredients-of-a-strong-wash-system.png
+-(2) https://vfs.cloud9.us-east-1.amazonaws.com/vfs/32ef7c81817346129785c29c625e7740/preview/images/unwater.jpg
+-(3) https://www.circleofblue.org/wp-content/uploads/2018/06/Circle-of-Blue-Water-Speaks-600x139.png
+-(4) https://thewaterproject.org/images/twp-resp-logo.png
+-(5) https://seabinproject.com/wp-content/themes/seabin/images/logo.png
 
 - The video on water was obtained from: [Youtube Video](https://youtu.be/T4XWT_XM0g8)
 
